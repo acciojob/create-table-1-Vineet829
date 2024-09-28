@@ -4,7 +4,7 @@ function insert_Row() {
     let arr = Array.from(temp); 
 
 
-    let newRow = `<tr><td>New Cell1</td><td>New Cell2</td></tr>`;
+    let newRow = `<tr><td>NewCell1</td><td>NewCell2</td></tr>`;
 
 
     table.innerHTML = newRow
